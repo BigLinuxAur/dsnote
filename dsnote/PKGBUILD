@@ -16,7 +16,7 @@ depends=(
   'fmt'
   'hicolor-icon-theme'
   'kdbusaddons5'
-  'kquickcharts5'
+  'kquickcharts'
   'libarchive'
   'openblas'
   'perl'
