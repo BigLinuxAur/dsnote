@@ -5,10 +5,7 @@ pkgname="${_pkgname}"
 pkgver=4.6.1
 pkgrel=1
 pkgdesc="Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine Translation"
-arch=(
-  'x86_64'
-  'aarch64'
-)
+arch=('x86_64' 'aarch64')
 url="https://github.com/mkiol/dsnote"
 license=('MPL2')
 depends=(
